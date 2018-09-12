@@ -1,6 +1,6 @@
 # Text-Classification-
-Natural Language Processing competition by Analytics Vidya
-I did this problem on Google Colab
+Natural Language Processing competition by Analytics Vidya using Google Colaboratory
+
 
 Steps followed to solve this problem
 1) Lot of data pre-processing is done
